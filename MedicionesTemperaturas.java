@@ -1,5 +1,5 @@
 import java.util.ArrayList; 
-//hola
+
 /**
  * Registros de temperaturas diarios de una estacion meteorológica
  */
